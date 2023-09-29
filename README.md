@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @halliekinsey
-- 👀 I’m interested in AI in healthcare and social settings
+- 👀 I’m interested in Python development and AI startups
 - 🌱 I’m currently learning applied AI at the Shiley-Marcos School of Engineering 
 - 💞️ I’m looking to collaborate on open source AI projects, AI ethics, healthcare or medical applications and algorithm optimization
 - 📫 Shoot me an email at hkinsey@sandiego.edu
